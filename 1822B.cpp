@@ -5,11 +5,11 @@ typedef long long ll;
 
 int main ()
 {
-	// std::ios_base::sync_with_stdio(false), cin.tie(0) , cout.tie(0);
+    // std::ios_base::sync_with_stdio(false), cin.tie(0) , cout.tie(0);
     // freopen("input.txt", "r", stdin);
     // freopen("output.txt", "w", stdout);
 
-	int t, n;
+    int t, n;
     cin >> t;
 
     int f, s;
